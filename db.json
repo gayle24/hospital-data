@@ -1,0 +1,400 @@
+{
+"hospitals": [
+    {
+      "name": "Cedars-Sinai Medical Center",
+      "location": "Los Angeles",
+      "zipCode": "90048",
+      "departments": [
+        "Emergency Medicine",
+        "Cardiology",
+        "Orthopedics"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "UCLA Medical Center",
+      "location": "Los Angeles",
+      "zipCode": "90024",
+      "departments": [
+        "Neurology",
+        "Oncology",
+        "Pediatrics"
+      ],
+      "bedCapacity": 400
+    },
+    {
+      "name": "Stanford Hospital",
+      "location": "Palo Alto",
+      "zipCode": "94305",
+      "departments": [
+        "Neurology",
+        "Oncology",
+        "Pediatrics"
+      ],
+      "bedCapacity": 600
+    },
+    {
+      "name": "UCSF Medical Center",
+      "location": "San Francisco",
+      "zipCode": "94143",
+      "departments": [
+        "Dermatology",
+        "Gastroenterology",
+        "Pulmonology"
+      ],
+      "bedCapacity": 450
+    },
+    {
+      "name": "Scripps Memorial Hospital",
+      "location": "La Jolla",
+      "zipCode": "92037",
+      "departments": [
+        "General Surgery",
+        "Ophthalmology",
+        "Radiology"
+      ],
+      "bedCapacity": 300
+    },
+    {
+      "name": "NewYork-Presbyterian Hospital",
+      "location": "New York City",
+      "zipCode": "10065",
+      "departments": [
+        "Psychiatry",
+        "Obstetrics and Gynecology",
+        "Urology"
+      ],
+      "bedCapacity": 700
+    },
+    {
+      "name": "Mount Sinai Hospital",
+      "location": "New York City",
+      "zipCode": "10029",
+      "departments": [
+        "Radiology",
+        "Endocrinology",
+        "Rheumatology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "Northwell Health",
+      "location": "Great Neck",
+      "zipCode": "11021",
+      "departments": [
+        "Allergy and Immunology",
+        "Nephrology",
+        "Hematology"
+      ],
+      "bedCapacity": 400
+    },
+    {
+      "name": "Memorial Sloan Kettering Cancer Center",
+      "location": "New York City",
+      "zipCode": "10065",
+      "departments": [
+        "Oncology",
+        "Hematology",
+        "Pain Management"
+      ],
+      "bedCapacity": 350
+    },
+    {
+      "name": "Houston Methodist Hospital",
+      "location": "Houston",
+      "zipCode": "77030",
+      "departments": [
+        "Neurosurgery",
+        "Cardiovascular Surgery",
+        "Gynecologic Oncology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "MD Anderson Cancer Center",
+      "location": "Houston",
+      "zipCode": "77030",
+      "departments": [
+        "Oncology",
+        "Radiation Oncology",
+        "Surgical Oncology"
+      ],
+      "bedCapacity": 600
+    },
+    {
+      "name": "UT Southwestern Medical Center",
+      "location": "Dallas",
+      "zipCode": "75390",
+      "departments": [
+        "Otolaryngology",
+        "Nephrology",
+        "Rheumatology"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "Baylor St. Luke's Medical Center",
+      "location": "Houston",
+      "zipCode": "77030",
+      "departments": [
+        "Transplant Surgery",
+        "Gastrointestinal Surgery",
+        "Pulmonary Critical Care"
+      ],
+      "bedCapacity": 450
+    },
+    {
+      "name": "Methodist Dallas Medical Center",
+      "location": "Dallas",
+      "zipCode": "75203",
+      "departments": [
+        "Orthopedic Surgery",
+        "Urology",
+        "Plastic Surgery"
+      ],
+      "bedCapacity": 350
+    },
+    {
+      "name": "Mayo Clinic",
+      "location": "Jacksonville",
+      "zipCode": "32224",
+      "departments": [
+        "Cardiology",
+        "Dermatology",
+        "Oncology"
+      ],
+      "bedCapacity": 650
+    },
+    {
+      "name": "Baptist Medical Center",
+      "location": "Jacksonville",
+      "zipCode": "32207",
+      "departments": [
+        "Emergency Medicine",
+        "General Surgery",
+        "Neurology"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "Massachusetts General Hospital",
+      "location": "Boston",
+      "zipCode": "02114",
+      "departments": [
+        "Neurology",
+        "Cardiology",
+        "Oncology"
+      ],
+      "bedCapacity": 700
+    },
+    {
+      "name": "Brigham and Women's Hospital",
+      "location": "Boston",
+      "zipCode": "02115",
+      "departments": [
+        "Psychiatry",
+        "Obstetrics and Gynecology",
+        "Cardiovascular Surgery"
+      ],
+      "bedCapacity": 600
+    },
+    {
+      "name": "Beth Israel Deaconess Medical Center",
+      "location": "Boston",
+      "zipCode": "02215",
+      "departments": [
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology"
+      ],
+      "bedCapacity": 450
+    },
+    {
+      "name": "Johns Hopkins Hospital",
+      "location": "Baltimore",
+      "zipCode": "21287",
+      "departments": [
+        "Dermatology",
+        "Endocrinology",
+        "Rheumatology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "University of Maryland Medical Center",
+      "location": "Baltimore",
+      "zipCode": "21201",
+      "departments": [
+        "Emergency Medicine",
+        "Cardiology",
+        "Orthopedics"
+      ],
+      "bedCapacity": 400
+    },
+    {
+      "name": "Cleveland Clinic",
+      "location": "Cleveland",
+      "zipCode": "44195",
+      "departments": [
+        "Gastroenterology",
+        "Urology",
+        "Orthopedic Surgery"
+      ],
+      "bedCapacity": 600
+    },
+    {
+      "name": "University Hospitals Cleveland Medical Center",
+      "location": "Cleveland",
+      "zipCode": "44106",
+      "departments": [
+        "Neurosurgery",
+        "Oncology",
+        "Pulmonology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "Northwestern Memorial Hospital",
+      "location": "Chicago",
+      "zipCode": "60611",
+      "departments": [
+        "Radiology",
+        "Pulmonology",
+        "Hematology"
+      ],
+      "bedCapacity": 700
+    },
+    {
+      "name": "Rush University Medical Center",
+      "location": "Chicago",
+      "zipCode": "60612",
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "Vanderbilt University Medical Center",
+      "location": "Nashville",
+      "zipCode": "37232",
+      "departments": [
+        "Emergency Medicine",
+        "Gastroenterology",
+        "Urology"
+      ],
+      "bedCapacity": 650
+    },
+    {
+      "name": "St. Thomas Midtown Hospital",
+      "location": "Nashville",
+      "zipCode": "37203",
+      "departments": [
+        "Orthopedic Surgery",
+        "Obstetrics and Gynecology",
+        "Hematology"
+      ],
+      "bedCapacity": 450
+    },
+    {
+      "name": "UC San Diego Health",
+      "location": "San Diego",
+      "zipCode": "92103",
+      "departments": [
+        "Dermatology",
+        "Radiology",
+        "Pulmonology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "Sharp Memorial Hospital",
+      "location": "San Diego",
+      "zipCode": "92123",
+      "departments": [
+        "Oncology",
+        "Neurosurgery",
+        "Nephrology"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "Emory University Hospital",
+      "location": "Atlanta",
+      "zipCode": "30322",
+      "departments": [
+        "Cardiology",
+        "Gastroenterology",
+        "Neurology"
+      ],
+      "bedCapacity": 600
+    },
+    {
+      "name": "Piedmont Atlanta Hospital",
+      "location": "Atlanta",
+      "zipCode": "30309",
+      "departments": [
+        "Emergency Medicine",
+        "Orthopedics",
+        "Ophthalmology"
+      ],
+      "bedCapacity": 450
+    },
+    {
+      "name": "University of Colorado Hospital",
+      "location": "Aurora",
+      "zipCode": "80045",
+      "departments": [
+        "General Surgery",
+        "Oncology",
+        "Orthopedics"
+      ],
+      "bedCapacity": 700
+    },
+    {
+      "name": "Denver Health Medical Center",
+      "location": "Denver",
+      "zipCode": "80204",
+      "departments": [
+        "Emergency Medicine",
+        "Psychiatry",
+        "Urology"
+      ],
+      "bedCapacity": 400
+    },
+    {
+      "name": "University of Utah Hospital",
+      "location": "Salt Lake City",
+      "zipCode": "84132",
+      "departments": [
+        "Radiology",
+        "Pulmonology",
+        "Neurology"
+      ],
+      "bedCapacity": 550
+    },
+    {
+      "name": "Intermountain Medical Center",
+      "location": "Murray",
+      "zipCode": "84107",
+      "departments": [
+        "Cardiology",
+        "Orthopedics",
+        "Hematology"
+      ],
+      "bedCapacity": 500
+    },
+    {
+      "name": "Pennsylvania Hospital",
+      "location": "Philadelphia",
+      "zipCode": "19107",
+      "departments": [
+        "Psychiatry",
+        "Pediatrics",
+        "Gynecology"
+      ],
+      "bedCapacity": 600
+    }
+  ]
+}
